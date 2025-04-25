@@ -13,12 +13,12 @@ Projekt był wykonywany w celach edukacyjnych oraz jako element uzupełniający 
 ## Środowiska ##
 
 - **Google Colab**
-- **Visual Studio Code**
+
 
 
 ## Narzędzia i Biblioteki ##
 
-- **Python 3.13.1**
+- **Jupyter**
 - **TensorFlow**
 - **NumPy**
 - **Matplotlib**
